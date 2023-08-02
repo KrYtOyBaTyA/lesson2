@@ -1,0 +1,18 @@
+body {
+    background: #396b3a;
+}
+
+.tegi {
+    color: red;
+    text-align: center;
+}
+.block1 {
+    border: 10px solid black;
+    width: 30%;
+}
+.code {
+    background: #3c453c;
+    width: 30%;
+    color: #0cfa14;
+    padding-top: 5;
+}
